@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace kopapirollo
+{
+    public partial class Frmfo : Form
+    {
+        public Frmfo()
+        {
+            InitializeComponent();
+        }
+
+        private void pbjatekos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnuj_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
